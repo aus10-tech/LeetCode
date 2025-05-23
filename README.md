@@ -21,6 +21,7 @@ coding practice 1 month out of bootCamp
 | [0009-palindrome-number](https://github.com/aus10-tech/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aus10-tech/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aus10-tech/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/aus10-tech/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -40,4 +41,5 @@ coding practice 1 month out of bootCamp
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aus10-tech/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/aus10-tech/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
