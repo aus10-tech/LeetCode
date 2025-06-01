@@ -28,11 +28,13 @@ coding practice 1 month out of bootCamp
 | [0013-roman-to-integer](https://github.com/aus10-tech/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aus10-tech/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aus10-tech/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/aus10-tech/LeetCode/tree/master/0125-valid-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aus10-tech/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aus10-tech/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/aus10-tech/LeetCode/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
